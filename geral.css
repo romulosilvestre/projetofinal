@@ -1,9 +1,11 @@
 
 /* primeira forma*/
+/*estilizando o corpo*/
 body{
     background-color: red;
 }
 
+/*estilizando o menu*/
 ul{
     background-color: yellow;
 }
