@@ -66,3 +66,11 @@ https://www.beecrowd.com.br/judge/en/login
 >15.Configuração e Hospedagem na Nuvem<br>
 >16.Teste de Software (Unitário)<br>
 >17.Documentação UML do Projeto Final<br>
+
+
+
+**FERRAMENTA**
+*Colorzilla - conta gontas*
+```
+https://www.colorzilla.com/firefox/welcome/new/?firefox/101.0/-/3.3
+```
