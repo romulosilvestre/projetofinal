@@ -10,8 +10,15 @@
 
 }
 
-.abaixodevinte{
-    color:blue;
+nav{
+
+   position: absolute;
+   top:30px;
+   left:600px;
+}
+nav img{
+    width:51px;
+    height:51px;
 }
 
 
@@ -23,13 +30,8 @@ body{
     background-color:cornsilk;
 }
 
-/*pai*/
-ul{
-      width:100%;
-      height:17px; 
-      border:1px solid red;
-     
-}
+
+
 
 /*filho*/
 
@@ -37,6 +39,8 @@ ul li{
    
      display: inline;
      padding-left: 80px;
+     width:50px;
+     height:50px;
    
      
 }
@@ -46,14 +50,12 @@ ul li a{
     text-decoration: none;
     color:black;
    
+   
 }
-ul li a:hover{
+ul li a:hover{    
+    background-color: coral;  
   
-   
-    background-color: coral;
-   
 }
-
 
 #principal{
     width:100%;
