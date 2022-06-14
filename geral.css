@@ -22,8 +22,8 @@ nav{
    left:400px;
 }
 nav img{
-    width:31px;
-    height:31px;
+    width:47px;
+    height:47px;
 }
 
 
@@ -70,7 +70,9 @@ ul li a:hover{
     border:2px solid red;
 }
 #busca{
-  margin-left: 300px;
+  
+    text-align:right;
+    margin-right:20px;
 }
 
 
