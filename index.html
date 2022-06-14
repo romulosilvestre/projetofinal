@@ -5,6 +5,9 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Caneca Nerd</title>
+    <script type="text/javascript" src="bibliotecas/jquery-3.6.0.min.js"></script>
+    <script type="text/javascript" src="plugins/coin-slider.min.js"></script>
+    <link rel="stylesheet" href="plugins/coin-slider-styles.css" type="text/css" />
     <link rel="stylesheet" type="text/css" href="geral.css"/>
     <link rel="stylesheet" type="text/css" href="reset.css"/>
     <!--Exemplo de CSS  Interno-->
@@ -15,9 +18,7 @@
 
     </style>
 
-<script type="text/javascript" src="bibliotecas/jquery-3.6.0.min.js"></script>
-<script type="text/javascript" src="plugins/coin-slider.min.js"></script>
-<link rel="stylesheet" href="plugins/coin-slider-styles.css" type="text/css" />
+
 
 </head>
 <body>
@@ -44,25 +45,23 @@
 
     </div>
      
+    <div id='coin-slider'>
+        <a href="img01_url" target="_blank">
+          <img src='imagens/canecapersonal.png' >
+  
+           
+        </a>
+     
+        <a href="imgN_url">
+            <img src='imagens/canecapersonal2.png' >
+            <span>
+             
+            </span>
+        </a>
+    </div> 
 
     <main>
-        <div id='coin-slider'>
-            <a href="img01_url" target="_blank">
-                <img src='img01.jpg' >
-                <span>
-                    Description for img01
-                </span>
-            </a>
-            ......
-            ......
-            <a href="imgN_url">
-                <img src='imgN.jpg' >
-                <span>
-                    Description for imgN
-                </span>
-            </a>
-        </div> 
-
+       
     </main>
     <div id="rodape">
         CanecaNerd &copy;
@@ -72,7 +71,7 @@
 
     <script type="text/javascript">
         $(document).ready(function() {
-            $('#coin-slider').coinslider();
+            $('#coin-slider').coinslider({ width:1200,height:250, navigation: false, delay: 5000});
         });
     </script>
 </body>
