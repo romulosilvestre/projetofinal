@@ -13,6 +13,7 @@
 #logo{
     margin-left:50px;
     margin-top:15px;
+    font-size:25px;
 }
 nav{
 
@@ -68,7 +69,9 @@ ul li a:hover{
     height:50px;
     border:2px solid red;
 }
-
+#busca{
+  margin-left: 300px;
+}
 
 
 
