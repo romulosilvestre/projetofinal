@@ -58,7 +58,7 @@ https://www.beecrowd.com.br/judge/en/login
 >7.Frameworks Java Script: Angular, React e Vue.js<br>
 >8.Linguagem C#: Básico, Intermediário e Avançado<br>
 >9.Linguagem C# e Banco de Dados (ADO.NET e Entity Framework)<br>
->10.Programação RAD (Windows Forms) com EntityFramewirk - DataBase First<br>
+>10.Programação RAD (Windows Forms) com EntityFramework - DataBase First<br>
 >11.ASP.NET MVC - Entity Framework -Code First<br>
 >12.ASP NET Web API - Integração de Sistemas<br>
 >13.Integrando Desktop, Web e Mobile<br>
